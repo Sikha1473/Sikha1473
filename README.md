@@ -1,16 +1,46 @@
-## Hi there 👋
+**👋 Hi, I'm Sikha Mohapatra**
 
-<!--
-**Sikha1473/Sikha1473** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Full Stack Developer | Java & .NET
+🚀 Passionate about building scalable, high-performance applications and writing clean, efficient code.
 
-Here are some ideas to get you started:
+**💫 About Me**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Full Stack Developer focused on Java & .NET
+🧠 Strong in Spring Boot, REST APIs, Microservices
+🎯 Love solving real-world backend problems
+🌱 Always learning and improving my craft
+⚡ Write clean, maintainable, production-ready code
+
+**🛠️ Tech Stack:**
+
+**💻Backend:**
+Java ☕| Spring Boot 🌱 | Hibernate / JPA  | C# | .NET ⚡
+
+**🌐Frontend:**
+HTML 🖼️ | CSS 🎨 | JavaScript ⚡ | React ⚛️ 
+
+**🗄️ Databases:**  
+ MySQL 🐬 | SQL Server 💾  | Oracle SQL
+
+**⚙️ Tools & Platforms:**
+Git 🐙 | GitHub 🖤 | IntelliJ IDEA 💡 | Eclipse 🌙 | Visual Studio Code 🧩 | Postman 📮 | Maven 📦 | PostgreSQL 🐘 |HeidiSQL 🐬
+
+**🚀 Featured Skills**
+
+✅ Scalable Backend Development
+✅ API Design & Integration
+✅ Database Design
+✅ Clean Code Practices
+✅ Production-Ready Applications
+
+**📈 What I’m Currently Working On**
+
+🔹 Improving system design skills
+🔹 Building robust Spring Boot projects
+🔹 Exploring advanced backend optimizations
+
+**🤝 Let's Connect**
+
+🔗 LinkedIn: www.linkedin.com/in/sikha-mohapatra
+📫 Email: sikha1473@gmail.com
+💼 Open to exciting backend/full-stack opportunities
